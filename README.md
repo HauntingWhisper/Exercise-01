@@ -1,10 +1,10 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+Atlas Clawthorne
 
 My github username is:
 
-[Your Username]
+HauntingWhisper
 
-BL-MSCH-C220
+I Installed the Software
